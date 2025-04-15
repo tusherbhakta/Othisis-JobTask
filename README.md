@@ -31,15 +31,9 @@ git clone https://github.com/your-username/othisis-medtech-job-task.git
 cd othisis-medtech-job-task
 2. Install dependencies
 Make sure you have Node.js v14+ installed.
-
 bash
 npm install
 3. Start the development server
 bash
-
 npm run dev
-Or if you're using plain CRA:
 
-bash
-npm start
-Then open http://localhost:3000 in your browser.
